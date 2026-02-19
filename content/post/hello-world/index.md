@@ -1,6 +1,6 @@
 ---
 title: The One and Only Melody
-description:   :heart:
+description: ❤️
 slug: hello-michael
 date: 2026-02-14 00:00:00+0000
 image: cover.jpg
