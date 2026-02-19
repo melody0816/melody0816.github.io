@@ -5,9 +5,9 @@ slug: hello-michael
 date: 2026-02-14 00:00:00+0000
 image: cover.jpg
 categories:
-    - N/A Category
+    - Post
 tags:
-    - N/A Tag
+    - Post
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
