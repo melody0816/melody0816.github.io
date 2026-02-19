@@ -1,20 +1,20 @@
 ---
-title: Hello World
-description: Welcome to Hugo Theme Stack
-slug: hello-world
-date: 2022-03-06 00:00:00+0000
+title: Hello Melody
+description: I did it
+slug: hello-michael
+date: 2026-02-14 00:00:00+0000
 image: cover.jpg
 categories:
-    - Example Category
+    - N/A Category
 tags:
-    - Example Tag
+    - N/A Tag
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
-Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!
+This is my first post.
 
-For more information about this theme, check the documentation: https://stack.jimmycai.com/
+This is the second line of my first post.
 
-Want a site like this? Check out [hugo-theme-stack-stater](https://github.com/CaiJimmy/hugo-theme-stack-starter)
+This is definitely the third line of my first post.
 
-> Photo by [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) on [Unsplash](https://unsplash.com/)
+> Photo by not me on me.com
